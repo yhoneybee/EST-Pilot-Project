@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PilotProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PilotProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PilotProject-Debug-cba7fae92b5b76e011fc.json",
+					"name" : "PilotProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PilotProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PilotProject_autogen-Debug-3f07c15fd807e63b7d5a.json",
+					"name" : "PilotProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PilotProject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PilotProject_autogen_timestamp_deps-Debug-2f20bcc5bfd4027dc380.json",
+					"name" : "PilotProject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/git/EST-Pilot-Project/build-PilotProject-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug",
+		"source" : "D:/git/EST-Pilot-Project/PilotProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
