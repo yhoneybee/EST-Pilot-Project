@@ -3,11 +3,11 @@
     "arguments": [
         "clang",
         "-I",
-        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "E:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
         "-I",
-        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "E:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\chaey\\AppData\\Local\\Temp\\QtCreator-mvuecm\\clang-uiheader-ilnLvY",
+        "C:\\Users\\chaey\\AppData\\Local\\Temp\\QtCreator-rWYVBS\\clang-uiheader-aMlxaM",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -58,7 +58,7 @@
         "-I",
         "D:\\Qt\\6.2.4\\msvc2019_64\\include\\QtGui",
         "/clang:-isystem",
-        "/clang:D:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
+        "/clang:E:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
         "/clang:-isystem",
         "/clang:C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\ATLMFC\\include",
         "/clang:-isystem",
@@ -85,20 +85,20 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "D:\\git\\EST-Pilot-Project\\PilotProject\\main.cpp"
+        "E:\\git\\EST-Pilot-Project\\PilotProject\\main.cpp"
     ],
-    "directory": "D:/git/EST-Pilot-Project/build-PilotProject-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/.qtc_clangd",
-    "file": "D:/git/EST-Pilot-Project/PilotProject/main.cpp"
+    "directory": "E:/git/EST-Pilot-Project/build-PilotProject-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/.qtc_clangd",
+    "file": "E:/git/EST-Pilot-Project/PilotProject/main.cpp"
 },
 {
     "arguments": [
         "clang",
         "-I",
-        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "E:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
         "-I",
-        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "E:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\chaey\\AppData\\Local\\Temp\\QtCreator-mvuecm\\clang-uiheader-ilnLvY",
+        "C:\\Users\\chaey\\AppData\\Local\\Temp\\QtCreator-rWYVBS\\clang-uiheader-aMlxaM",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -149,7 +149,7 @@
         "-I",
         "D:\\Qt\\6.2.4\\msvc2019_64\\include\\QtGui",
         "/clang:-isystem",
-        "/clang:D:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
+        "/clang:E:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
         "/clang:-isystem",
         "/clang:C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\ATLMFC\\include",
         "/clang:-isystem",
@@ -176,20 +176,20 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "D:\\git\\EST-Pilot-Project\\PilotProject\\mainwindow.cpp"
+        "E:\\git\\EST-Pilot-Project\\PilotProject\\mainwindow.cpp"
     ],
-    "directory": "D:/git/EST-Pilot-Project/build-PilotProject-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/.qtc_clangd",
-    "file": "D:/git/EST-Pilot-Project/PilotProject/mainwindow.cpp"
+    "directory": "E:/git/EST-Pilot-Project/build-PilotProject-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/.qtc_clangd",
+    "file": "E:/git/EST-Pilot-Project/PilotProject/mainwindow.cpp"
 },
 {
     "arguments": [
         "clang",
         "-I",
-        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "E:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
         "-I",
-        "D:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "E:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\chaey\\AppData\\Local\\Temp\\QtCreator-mvuecm\\clang-uiheader-ilnLvY",
+        "C:\\Users\\chaey\\AppData\\Local\\Temp\\QtCreator-rWYVBS\\clang-uiheader-aMlxaM",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
@@ -240,7 +240,7 @@
         "-I",
         "D:\\Qt\\6.2.4\\msvc2019_64\\include\\QtGui",
         "/clang:-isystem",
-        "/clang:D:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
+        "/clang:E:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
         "/clang:-isystem",
         "/clang:C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\ATLMFC\\include",
         "/clang:-isystem",
@@ -267,9 +267,9 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "D:\\git\\EST-Pilot-Project\\PilotProject\\mainwindow.h"
+        "E:\\git\\EST-Pilot-Project\\PilotProject\\mainwindow.h"
     ],
-    "directory": "D:/git/EST-Pilot-Project/build-PilotProject-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/.qtc_clangd",
-    "file": "D:/git/EST-Pilot-Project/PilotProject/mainwindow.h"
+    "directory": "E:/git/EST-Pilot-Project/build-PilotProject-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/.qtc_clangd",
+    "file": "E:/git/EST-Pilot-Project/PilotProject/mainwindow.h"
 }
 ]
